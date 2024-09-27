@@ -9,12 +9,7 @@ public static void main(String[] args) {
 	
 
 }
-	public void poo()
+	public void pooja()
 	{
-		System.out.println("poo");
-	}
-	public void mam()
-	{
-		System.out.println("Code Changes Frequently");
 	}
 }
