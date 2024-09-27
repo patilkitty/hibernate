@@ -7,4 +7,8 @@ public static void main(String[] args) {
 		System.out.println("cjc");
 
 }
+	public void mam()
+	{
+		System.out.println("Code Changes Frequently");
+	}
 }
